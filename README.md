@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h1 align="center">Hi 👋, I'm Ashish Vora</h1>
 <h3 align="center">Frontend Developer | React & Next.js Specialist</h3>
 
 🚀 Front-End Developer with 6+ years of experience building scalable, performant, and data-heavy web applications. 
@@ -75,15 +75,6 @@ Tech: React, Socket.io, MUI, Redux Thunk
 **🔹 Property Listing App** 
 Advanced search and pricing analytics using MapBox & charts 
 Tech: React, AntD, BizChart
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishvora1997&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishvora1997&layout=compact&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
