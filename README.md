@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ashish Vora</h1>
+<h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Frontend Developer | React & Next.js Specialist</h3>
 
 🚀 Front-End Developer with 6+ years of experience building scalable, performant, and data-heavy web applications. 
