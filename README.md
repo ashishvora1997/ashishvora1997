@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Frontend Developer | React & Next.js Specialist</h3>
 
-🚀 Front-End Developer with 6+ years of experience building scalable, performant, and data-heavy web applications. 
+🚀 Front-End Developer with 7+ years of experience building scalable, performant, and data-heavy web applications. 
 
 I love crafting clean architecture and exceptional UI/UX using modern React ecosystem patterns like Atomic Design, Monorepo, and container-presentational principles.
 
