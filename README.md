@@ -78,14 +78,6 @@ Tech: React, AntD, BizChart
 
 ---
 
-### 🌍 Connect with Me
-
-📩 Email: **ashishvora1997@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/ashish-vora-150359234/**  
-💼 Portfolio: *coming soon*
-
----
-
 ### 💡 Fun Fact
 I love solving UI performance challenges and bringing product ideas to life from scratch!
 
